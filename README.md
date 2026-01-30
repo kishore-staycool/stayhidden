@@ -12,7 +12,7 @@
 - Progress bar for scanning (`tqdm`)
 - Logs all results to `stayhidden_log.txt`
 
-## Requirement
+## Requirements
 
 pip install playwright colorama tqdm
 python3 -m playwright install
