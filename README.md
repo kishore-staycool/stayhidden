@@ -2,7 +2,7 @@
 
 **StayHidden** is a Python tool that scans websites for hidden HTML elements — like forms, buttons, or inputs hidden using CSS or HTML attributes.
 
-## Features
+## Feature
 - Detects elements hidden using:
   - `display:none`
   - `visibility:hidden`
